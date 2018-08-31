@@ -2,7 +2,7 @@
 
 Crimes in Chicago evaluation
 
-[Diagrams](https://gitlab.engr.illinois.edu/cs398-sp18-final-project/newbee/tree/master/Data_report_diag)
+[Diagrams](https://github.com/rMaxiQp/newbee/tree/master/Data_report_diag)
 Above link directs to the folder of visualization graphs that we created earlier.
 
 ## Packages
@@ -17,7 +17,7 @@ Above link directs to the folder of visualization graphs that we created earlier
 ## Framework
 * Apache.spark
 
-## By time, econ and weather ([OOP](https://gitlab.engr.illinois.edu/cs398-sp18-final-project/newbee/tree/master/OOP) with spark)
+## By time, econ and weather ([OOP](https://github.com/rMaxiQp/newbee/tree/master/OOP) with spark)
 
 dv_report.py: This class acts as a main function.
 We use OOP so that other class can be driven by dv_report.py
@@ -33,7 +33,7 @@ Use ``spark-submit dv_report.py`` with following `param` to run the program.
 | EvaluationByWeather.py | join weather and crime by date so and combine crime data with weather data by date |
 | temp_crime.py | make an advanced analysis on crime and weather |
 
-## By location ([script](https://gitlab.engr.illinois.edu/cs398-sp18-final-project/newbee/tree/master/script))
+## By location ([script](https://github.com/rMaxiQp/newbee/tree/master/script))
 
 In this analysis, since we are using external library that cannot be installed in cluster,
 we have to implement it locally.
